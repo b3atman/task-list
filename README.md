@@ -18,4 +18,5 @@ Presented tool allows you to create your own task list. Tasks can be added or de
 - Media Queries
 - Open Graph Protocol
 - Grid
+- Immutability
 - Normalize.css
