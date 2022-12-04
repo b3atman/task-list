@@ -14,6 +14,7 @@ Presented tool allows you to create your own task list. Tasks can be added or de
 - HTML
 - CSS
 - Javascript
+- React
 - BEM convention
 - Media Queries
 - Open Graph Protocol
